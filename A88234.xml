@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for common-right and freedom. To His Excellency, the Lord General Fairfax, and the commission-officers of the armie. Or, the serious addresses, and earnest desires of their faithful friends, inhabiting in the cities of London and Westminster, the borough of Southvvark, Hamblets, and places adjacent: promoters and presenters of the late large-petition of the eleventh of September, MDCXLVIII. As it was presented to his Excellency, Decemb. 28. 1648. By L.C. Iohn Lilburn. George Middlemore. Rob. Davis. Ed. Tench. Dan. Linton. Will. Bottome. Rob. Cobbett. Richard Overton. Iohn Harris. Tho. Dassern. Tho. Goddard. Tho. Prince. Sam. Blaicklock. Andr. Dednam. Iohn Walters. Rich. Pechel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88234</idno>
+            <idno type="STC">Wing L2159</idno>
+            <idno type="STC">Thomason E536_22</idno>
+            <idno type="STC">ESTC R205304</idno>
+            <idno type="EEBO-CITATION">99864716</idno>
+            <idno type="PROQUEST">99864716</idno>
+            <idno type="VID">116948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116948)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for common-right and freedom. To His Excellency, the Lord General Fairfax, and the commission-officers of the armie. Or, the serious addresses, and earnest desires of their faithful friends, inhabiting in the cities of London and Westminster, the borough of Southvvark, Hamblets, and places adjacent: promoters and presenters of the late large-petition of the eleventh of September, MDCXLVIII. As it was presented to his Excellency, Decemb. 28. 1648. By L.C. Iohn Lilburn. George Middlemore. Rob. Davis. Ed. Tench. Dan. Linton. Will. Bottome. Rob. Cobbett. Richard Overton. Iohn Harris. Tho. Dassern. Tho. Goddard. Tho. Prince. Sam. Blaicklock. Andr. Dednam. Iohn Walters. Rich. Pechel.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[1], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ja. and Jo. Moxon, for Will. Larnar, at the signe of the Black-Moor neer Bishops-gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116948:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>A PLEA FOR COMMON-RIGHT AND FREEDOM.</p>
+            <p>TO HIS EXCELLENCY, THE LORD General <hi>Fairfax,</hi> and the Commiſſion-Officers of the ARMIE.</p>
+            <p>OR, <hi>The ſerious Addreſſes, and earneſt Deſires of their Faithful Friends, inhabiting in the Cities of</hi> London <hi>and</hi> Weſtminſter, <hi>the Borough of</hi> Southvvark, Hamblets, <hi>and Places</hi> Adjacent: <hi>Promoters and Preſenters of the late Large-Petition of the Eleventh of</hi> September, MDCXLVIII.</p>
+            <p>As it was preſented to his Excellency, <hi>Decemb.</hi> 28. 1648. By
+<list>
+                  <item>L.C. <hi>Iohn Lilburn.</hi>
+                  </item>
+                  <item>
+                     <hi>George Middlemore.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Davis.</hi>
+                  </item>
+                  <item>
+                     <hi>Ed. Tench.</hi>
+                  </item>
+                  <item>
+                     <hi>Dan. Linton.</hi>
+                  </item>
+                  <item>
+                     <hi>Will. Bottome.</hi>
+                  </item>
+                  <item>
+                     <hi>Rob. Cobbett.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Overton.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Harris.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Daffern.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Goddard.</hi>
+                  </item>
+                  <item>
+                     <hi>Tho. Prince.</hi>
+                  </item>
+                  <item>
+                     <hi>Sam. Blaicklock.</hi>
+                  </item>
+                  <item>
+                     <hi>Andr. Dednam.</hi>
+                  </item>
+                  <item>
+                     <hi>Iohn Walters.</hi>
+                  </item>
+                  <item>
+                     <hi>Rich. Pechel.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by JA. and JO. MOXON, for <hi>Will. Larnar,</hi> at the Signe of the Black-Moor neer Biſhopſ-gate. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116948:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="1" facs="tcp:116948:2"/>
+            <!-- PDF PAGE 72 -->
+            <head>TO HIS EXCELLENCY The Lord General FAIRFAX, and the <hi>Commiſſion-Officers</hi> of the Army.</head>
+            <head type="sub">The ſerious Addreſſes, and earneſt Deſires of Your faithful Friends, inhabiting in the Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> the Borough of <hi>Southwark, Hamblets,</hi> and Places <hi>Adjacent.</hi> Promoters and Preſenters of the late Large Petition, of the eleventh of <hi>September, 1648.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat upon ſerious conſideration of a perverſe and partial de<g ref="char:EOLhyphen"/>meanour of a prevalent party in Parliament towards thoſe who ſtood firm to them in their greateſt neceſſities, and how by inſenſible degrees they brought in divers Intereſts directly oppoſite and deſtructive to them; and under pretence of zeal to God, joyned in Covenant for their extirpation, under the notion of Sectaries: and how, notwithſtanding their beginnings were gentle, and the moſt plauſible Interpretations put upon their doings, yet in ſhort ſpace after, violent effects followed; as, the erection of the Inquiſition Committee, where Collonel <hi>Leigh</hi> had the Chair, the burning of Petitions by the hand of the Common Hang-man, Impriſoning Petitioners, the perſecu<g ref="char:EOLhyphen"/>ting Ordinance againſt what they were pleaſed to call Hereſie and Schiſme, and thoſe ſeveral oppreſſive Ordinances, enforcing tripple Damages for non-payment of Tythes; all which gave riſe to the cruel Remonſtrance of the then Common-Councel of Lon<g ref="char:EOLhyphen"/>don, and to many deſperate and treaſonable engagements: From all which proceeded a violent oppoſition againſt the Army under your command, as, an Army of Sectaries: and ſo paſſed on from one degree of evil to another, until at length they brought them<g ref="char:EOLhyphen"/>ſelves into a moſt miſerable and dangerous condition, being neither able to help themſelves nor others, but are juſtly at the mercy of thoſe they deſpiſed, ſerving only as the Pillar of Salt, warning all men to beware how they forſake their juſt principles, or neglect
+<pb n="2" facs="tcp:116948:3"/>
+               <!-- PDF PAGE 73 -->their firſt and faſteſt friends, or their counſels, or let ſlip opportuni<g ref="char:EOLhyphen"/>ties of doing good, for any allurements in the world. And we heartily deſire it may prove ſo to every one of you in particular, and to the whole Army in general, and we are yet hopeful it will be ſo; though when we call to mind how and with what danger we appeared with Petitions to the Parliament in your behalf, and with what extreme hazard of our lives, and all we had, we made way for your eaſie and unbloudy entrance into Southwark, and paſſage to and through the City, whereas others whom you imme<g ref="char:EOLhyphen"/>diately took into your boſoms, and rejected us, either durſt not, or would not own you: When we call to mind how our wholeſom counſels all along have bin rejected, as about a guard for the Tower and City, by well-affected houſe-keepers in and about the City and Borough, as a means to continue trade and quietneſs, and not by a new raiſed Regiment of a mercenary eſtabliſhment, as thoſe others ill adviſed, which by its conſequence proved to be but partial and pernitious counſel. When we conſider how exceedingly we were condemned in our ſolicitous endeavours for purging the Houſe of thoſe corrupt members that voted the King to London, and de<g ref="char:EOLhyphen"/>nounced war againſt you, though you your ſelves had Remonſtrated the ſame, and when miſchiefs have ſince beſaln for want thereof. When we remember how unkindly (to ſay no more) many were u<g ref="char:EOLhyphen"/>ſed for endeavouring the performance of your engagements, pro<g ref="char:EOLhyphen"/>miſes, and declarations, and what troubles and dangers befel the Na<g ref="char:EOLhyphen"/>tion and this Army for default therein; and how for all our moſt af<g ref="char:EOLhyphen"/>fectionate endeavours for common Peace and Freedom, we were re<g ref="char:EOLhyphen"/>warded only with the groundleſs aſperſion of Levellers, and other vile reproches; whilſt thoſe who moſt abuſed us, were ſtill moſt ac<g ref="char:EOLhyphen"/>ceptable with you.</p>
+            <p>Theſe and the like evil effects we thought worthy our fear, and of your ſerious conſideration, and enquiry from what evil influence they might proceed, that ſo there might be timely prevention be<g ref="char:EOLhyphen"/>fore it grew too powerfull.</p>
+            <p>Yet were we not ſo alienated by any hard meaſure we had found, but that (your neceſſities being urgent through the general riſings, invaſions and revolts) we (ceaſing to diſpute our grievan<g ref="char:EOLhyphen"/>ces) cordially aſſiſted you in our ſeveral places to the utmoſt of our power, as hoping thereby to have buried the remembrance of all
+<pb n="3" facs="tcp:116948:3"/>
+               <!-- PDF PAGE 73 -->diſ-ſatisfactions, and God bleſſing your endeavours againſt the ene<g ref="char:EOLhyphen"/>my, to incline you both really and affectionately to the ſettlement of the Peace of the Nation upon thoſe grounds of Common Right and Freedom, which had been long held forth, and were well un<g ref="char:EOLhyphen"/>derſtood and approved by the Army and their friends in all places; as appeareth by their general concurrence in our large Petition of the 11. of <hi>Septemb.</hi> 1648.</p>
+            <p>And we were very much ſatisfied, that your laſt Remonſtrance terminated in propoſing <hi>An Agreement of the People,</hi> as the only proper means for quieting the long and wofull diſtractions of the Nation, and the matter of our foreſaid Petition of the 11. of <hi>Sept.</hi> as requiſite to be ſeriouſly conſidered: both which intimated a neerer compliance with our deſires than we had formerly found; but much more ſatisfactory it was, that you allowed us to chuſe out certain friends from amongſt us, to be joyned with you, in the drawing up of an Agreement for the People, to be offered unto them for their union therein.</p>
+            <p>And which (though with great expence of time and much con<g ref="char:EOLhyphen"/>teſt) was at length effected: ſo that our hopes revived, and our confidence was great, that the work would then go on currantly amongſt you without ſtop or interuption.</p>
+            <p>But ſince the ſame hath been tendered to the conſideration of your Councel, the long time ſpent already therein, and the tedious diſ<g ref="char:EOLhyphen"/>putes and conteſts held thereupon, and that in things ſo eſſential unto our Freedom, as without which we account the Agreement of no vallue: for what freedom is there to Conſciencious people where the Magiſtrate ſhall be intruſted with a Reſtrictive power in matters of Religion? or to judge and puniſh in caſes where no Law hath been before provided? which are the points that as yet remain in ſuſpence, and about which moſt of the time hath been ſpent; though they are ſuch as wherein all the cordial friends of this Army are fully ſatisfied, as cleerly appeareth by their adhe<g ref="char:EOLhyphen"/>ring to our foreſaid Petition of the 11. of <hi>Septemb.</hi> And when we conſider how many in this Councel have appeared in behalf of theſe unreaſonable Powers in the Magiſtrate, how they have been countenanced that have ſpoken for them, and how diſ-countenan<g ref="char:EOLhyphen"/>ced that have ſpoken againſt them, and that at length, Intereſts di<g ref="char:EOLhyphen"/>rectly oppoſite to Freedom of Conſcience in point of Gods Wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="4" facs="tcp:116948:4"/>
+               <!-- PDF PAGE 74 -->are nevertheleſs called for to receive ſatisfaction, whoſe princi<g ref="char:EOLhyphen"/>ples and Covenant lead to no leſs then perſecution in matters of that nature, and which (upon the leaſt hope of power) they have eagerly practiſed, as, in Col. <hi>Leighs</hi> Committee; and ſince at preſent re<g ref="char:EOLhyphen"/>proches of Leveller, Jeſuite, and the like, begin a freſh to be as rife as ever, which uſually have fore-run the deſtruction of good en<g ref="char:EOLhyphen"/>deavours.</p>
+            <p>We profeſs; theſe are ſuch manifeſt effects of evil influ<g ref="char:EOLhyphen"/>ences, and do ſo evidently demonſtrate, that both you and we are almoſt overgrown with deſtructive Intereſts, and adminiſters ſo much occaſion to doubt the Agreement pretended, is not really, or not effectually intended in that fulneſs of Right, Freedom, and Re<g ref="char:EOLhyphen"/>dreſs of Grievances, as all true hearted friends expected: That we deem it a freſh, worthy all our fears, and of your more then ordinary intention, to diſcover from whence thoſe evil and dangerous effects do proceed; leſt before you are aware (as it befel the wel-minded Members in Parliament) you be entangled in ſuch perplexities, that when you would, it ſhall not be in your povver to help your ſelves, or to free this Common-vvealth from miſery and bondage. All which, as a people under God preſerved by you, and embarqued in one and the ſame bottom vvith you, and vvhoſe preſervation in honour and proſperity vve heartily deſire: We judged our ſelves bound in Conſcience thus timely to advertiſe you of. And doe moſt earneſtly entreat, that you vvould bend your utmoſt endea<g ref="char:EOLhyphen"/>vours both joyntly and ſeverally, to a full and cleer diſcovery of the original and grovvth of any evil that threatens your diſturbance or obſtruction in your purſuance of the Peace and Freedom of the Common-vvealth; and by all good means to prevent your and our being overgrovvn vvith deſtructive Intereſts, or vvith perſons promoting the ſame: that you vvill employ all your might to the ſpeedy Production of ſo full and ample Agreement for the people, as (to the reſtoring all true Freedom, and for removing of all knovvn Grievances) may deſerve the ſtamp of ſo ſucceſsful an Army, and that therein you would have regard to what is right, and conſiſting vvith the Freedom of your moſt faithful Friends, truſting God vvith the ſucceſs, rather than to deviate from Principles of Right, and for politick ends become pleaſers of unreaſonable men, who pretend Conſcience for power to deprive us of the very life of all our Liber<g ref="char:EOLhyphen"/>ties,
+<pb n="5" facs="tcp:116948:4"/>
+               <!-- PDF PAGE 74 -->as in the particulars forementioned is fully manifeſted, and who when you ſhall need them will (as they have done) prove but as a broken reed, that to theſe juſt and neceſſary ends you will inſtantly reduce your Councel into a certain method of orderly proceeding, which will much conduce to the furthering and clearing of your debates and reſolutions, wherein we are now exceedingly con<g ref="char:EOLhyphen"/>cerned.</p>
+            <p>As firſt, to agree what certain number of Officers, and no leſſe, ſhall make a Councel, which we humbly conceive, ought not to be leſſe, than the major part of the Commiſſion Officers, at the Head Quarters, and adjacent thereunto, not excluding of others.</p>
+            <p n="2">2. That all perſons in Councel may ſit in a diſtinct orderly way, ſo as they may be obſerved by the Preſident when they are inclined to ſpeak.</p>
+            <p n="3">3. That you will agree how many times any perſon may ſpeak to a Queſtion.</p>
+            <p n="4">4. That you will free your Determinations from all pretences of a Negative Voice, and from all diſ-countenance and check by any ſuperior Officer.</p>
+            <p>And being ſo regulated, 1. That you will conſider and re<g ref="char:EOLhyphen"/>ſolve, what is the moſt proper way for advance of Officers ſo as to preſerve them intire to the intereſt of the People, and from a ſervile condition, or neceſſary dependance upon the favour or will of any: and ſeriouſly to conſider, whether your Articles of Martial Law (as now they are) are not of too Tyranous a nature for an Army of Free-born Engliſh men, and to reduce the ſame to reaſon and an equal conſtitution.</p>
+            <p n="2">2. To take ſpecial care of the principles of any Officer to be admitted, that they be not tainted with thoſe of Arbytrary power or of perſecution for matters of Religion.</p>
+            <p n="3">3. That there be no disbanding of any ſort of men, but by con<g ref="char:EOLhyphen"/>ſent of the General Councel nor admiſſion or liſting of any for Horſe or Foot, but according to proviſion made by the ſaid Coun<g ref="char:EOLhyphen"/>cel; it being reported that very many of late are liſted of bad and doubtfull condition: by all which means, if conſcionably obſerved, (and we truſt you will not be the leſſe ſencible becauſe we adviſe) the growth of any corrupt intereſt will be effectually prevented. And if it ſhall ſeem good or any way uſefull unto you, we ſhal
+<pb n="6" facs="tcp:116948:5"/>
+               <!-- PDF PAGE 75 -->chuſe and appoint four of our Friends alwayes to attend and aſſiſt though not to Vote with you. Nor will theſe things or theſe de<g ref="char:EOLhyphen"/>ſires of ours ſeem ſtrange unto you, if you ſhall conſider at how high a rate we have al-along vallued our juſt Liberties; and how by breaking all Authoritie you have taken upon your ſelves the care, protection and reſtoration thereof, you will not only ceaſe to wonder, but reſolve, that we have cauſe to mind you there<g ref="char:EOLhyphen"/>of, and of whatſoever we obſerve may be prejudicial thereunto, be<g ref="char:EOLhyphen"/>ing well aſſured, that it highly concerns you in the condition you have put your ſelves, not to be ſtrait or narrow hearted to your friends in point of Liberty, or removal of known grievances, but to be as large in both as the utmoſt reaſon of theſe knowing Times can plead for or deſire; and as leſſe then that is not expected from you in the Agreement you have in hand; So if leſſe in a tittle, it will not be regarded, but very much under-vallue your Affection to the Common wealth, as, being that without which your extra<g ref="char:EOLhyphen"/>ordinary proceedings, in overturning all the viſible ſupream au<g ref="char:EOLhyphen"/>thority of the Nation, can never be juſtified before God or man.</p>
+            <p>And therefore as in all your Remonſtrances, Papers, and Decla<g ref="char:EOLhyphen"/>rations you have made the Liberties of the People your Banner and Standard, for which you have conteſted: ſo (now you having aſſumed all Power into your own hands) let it appear to the world you meant ſo indeed: and as no ſtrength hath been able to hinder you, ſo now let no craft or policie of man hold you in ſuſpence till new troubles ariſe, and the ſeaſon be over; but ſince you are thus far ingaged, do it with all your might, that God may be glorified in your ſucceſſe, we and all good men encouraged to ſtand by you, and the People enjoy their long wiſhed for Peace, whom wee deſire may be made abſolutely Free and Happy by this Army for which ends only it was raiſed; that ſo this Army, your Excellency, and the worthy Officers thereof may be the joy and rejoycing of this Nation to all future Generations.</p>
+            <closer>
+               <dateline>Signed by us in behalf of our ſelves and our Friends that ſent us. <date>
+                     <hi>Decemb.</hi> 28. 1648.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Iohn Lilburne.</hi>
+                     </item>
+                     <item>
+                        <hi>George Middlemore.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob, Davis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Tench,</hi>
+                     </item>
+                     <item>
+                        <hi>Dan. Linton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Bottome.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Cobbet.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Overton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Harris.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Daffern.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Goddard.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Prince.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Blaicklock.</hi>
+                     </item>
+                     <item>
+                        <hi>Andr. Dednam.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Walters.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Pechel.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:116948:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+         </div>
+      </body>
+   </text>
+</TEI>
